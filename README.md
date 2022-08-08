@@ -2,8 +2,8 @@
 
 I am a former french theoretical physics researcher who is now looking for a profesional transition in the domain of data science and data analysis.
 I am mostly interested in joining project and work for companies/public agencies involved in environement, agriculture, health or social.
-In this github you can find some code that were used in some of my former studies, including markov chain monte carlo algorithm used for particle physics.
-I intend to develop some machine learning and deep learning codes for my own training and for fun, as for instance a chess engine.
+In this github you can find codes that were used for my former studies, including markov chain monte carlo algorithms used for particle physics.
+I intend to develop machine learning and deep learning codes for my own training and for fun, as for instance a chess engine which is at a basic point now (implementation of machine learning will arrive within the next months).
 
 If you wish to contact me, regarding projects or job offers please use the following email : jordanbernigaudsamatan@gmail.com
 
